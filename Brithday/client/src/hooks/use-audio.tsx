@@ -14,7 +14,7 @@ interface AudioContextType {
 
 const AudioContext = createContext<AudioContextType | null>(null);
 
-const DEFAULT_AUDIO_SRC = "/Dooron_Dooron.webm";
+const DEFAULT_AUDIO_SRC = "/Elvis Presley - Can t Help Falling in Love (Lyrics).mp3";
 
 export function AudioProvider({ children }: { children: ReactNode }) {
   const audioRef = useRef<HTMLAudioElement | null>(null);

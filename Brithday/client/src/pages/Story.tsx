@@ -220,72 +220,38 @@ export default function Story() {
     {
       id: 1,
       title: "The First Glance",
-      content:"I still remember the first time I saw you. I don't know what it was about that moment, but somehow, you felt different. There was something in your smile, your eyes, and the way you carried yourself that quietly caught my attention.\n\nI didn't know that day how important you would become to me. I didn't know that a simple first glance would eventually become one of the most beautiful chapters of my life.\n\nMaybe you were just a stranger to me at first, but somewhere in my heart, it already felt like I had found someone special. ❤️",
-      imageUrl: "/13.jpeg",
+      content:"July 2008.\n\n We were just little kids in first standard when I first saw you from across the room.\n\n There you were—utterly adorable, hair tied in two sweet braids with ribbons, shyly buried in your notebooks and completely unaware of the world around you.\n\n I still remember the way you used to sit, quietly engrossed in your studies, never realizing that a little boy across the classroom had silently decided you were the prettiest thing in the universe.\n\n In my mind, you immediately became my favorite little chhotu bachha.\n\n You may have grown into this breathtaking, graceful woman now, but to me, that pure, endearing spark never faded. \n\nYou were my very first crush—and today, the love of my life\n\n",
+      imageUrl: "/1.jpeg",
       order: 1
     },
+    
     {
       id: 2,
-      title: "Growing Closer",
-      content: "Every conversation, every shared laugh, every quiet moment together brought us closer. I found myself looking forward to seeing you, thinking about you constantly.\n\nSomewhere along the way, talking to you stopped feeling like talking to someone new and started feeling like talking to someone I had always known. I began noticing the little things about you — the way you smile, the way you talk, and even the little things you probably never thought I would remember.\n\nYour messages became something I looked forward to, and somehow, my ordinary days started feeling a little better just because you were a part of them.\n\nI don't know exactly when it happened, but somewhere between those conversations, laughs, and little moments, you stopped being just someone I liked talking to. You became someone I couldn't imagine my days without. ❤️",
-      imageUrl: "/14.jpeg",
+      title: "The Boy Who Wore His Heart on His Sleeve",
+      content: "It didn’t take long for the whole class to figure it out, and soon your name became the soundtrack to every tease directed at me.\n\n But I wasn't embarrassed at all.\n\n I stood right up before everyone and boldly declared that I liked you.\n\n It was that pure, untainted kind of childhood love—unfiltered, fearless, and so wonderfully innocent.\n\n🌅",
+      imageUrl: "/2.jpeg",
       order: 2
     },
     {
       id: 3,
-      title: "Falling Deeper",
-      content: "Somewhere along the way, friendship blossomed into something more. My heart would race at the sound of your voice, and your smile became my favorite sight.",
-      imageUrl: "/5.jpeg",
+      title: "The Silence Between Us",
+      content: "After second standard, time and circumstances quietly stepped in.\n\n Conversations dwindled, and we drifted apart into our own separate worlds.\n\n Years slipped by, school ended, and you moved away to Pune for your studies.\n\n Life kept moving forward, but a quiet, tender piece of my childhood remained paused exactly where you left it.\n\n🥰",
+      imageUrl: "/3.jpeg",
       order: 3
     },
     {
       id: 4,
-      title: "Beautiful Moments",
-      content: "There are some moments that stay with you without needing a reason. Seeing you like this was one of those moments for me. You looked beautiful, but more than that, there was something about your smile that made the whole moment feel special. I could look at you a hundred times and still find something new to admire. ❤️",
-      imageUrl: "/2.jpeg",
+      title: "When the Universe Decided It Was Time",
+      content: "For years, we were reduced to brief Instagram courtesies—just passing birthday wishes once a year.\n\n You were living your life, weathering your own storms and heartbreaks with someone else that I knew nothing about; I was trying to grow up, navigate my own lows, and heal through life's shifting phases.\n\n Then, almost like fate decided our patience had been tested enough, the universe brought you back into my life.\n\n An eighteen-year history restarted with a single message.\n\n What began as simple texts turned into endless conversations, and those messages quietly grew into late-night phone calls I never wanted to end.\n\n When we spoke again, I saw how much you had grown.\n\n Life had tested you and shaped you, yet your heart had remained so remarkably gentle.\n\n Watching the resilient, graceful woman you’ve become made me fall for you all over again—not just for the little girl from school, but for the incredible person standing in front of me today.\n\nNow, the simplest things brighten my entire world: seeing my phone light up with your name instantly fixes a rough day, a ten-minute conversation feels like a breath of fresh air, and I catch myself smiling at my screen like an idiot just re-reading our chats.\n\n Hearing your voice makes my heart race and pound, yet somehow quietens every worry inside me.\n\n I didn't plan any of this; my heart just recognized where it belonged.\n\n Waiting all those years through the silence suddenly made complete and beautiful sense.\n\n💖",
+      imageUrl: "/12.jpeg",
       order: 4
     },
     {
       id: 5,
-      title: "Just Us",
-      content: "Some of my favorite memories are the simple ones where it is just you and me. No perfect plans, no special occasion, just us being together. Somehow, even the most ordinary moments feel different when I get to share them with you. And honestly, I wouldn't trade those little moments for anything. 🫶",
-      imageUrl: "/4.jpeg",
+      title: "A Letter to You, on Your Birthday",
+      content: "It has been over 6,652 days since the day I first saw you, and here I am, still looking at you with that exact same wonder—only now, with a heart overflowing with love.\n\nHappy Birthday to my happiest place, my peace, and the most beautiful chapter of my life.\n\nI don't know every detail of what destiny has written in the stars, but my quietest, most sincere prayer every single day is to build a life and a future with you by my side.\n\n With zero doubt or hesitation, you are truly the best and purest soul I have ever known.\n\nWhatever pacing life takes, and whatever chapter comes next—I am right here.\n\n No rush, no pressure, and no expectations.\n\n Just an honest heart that chooses you every single day.\n\n Please know that you hold a permanent, sacred home in my heart where you will always be cherished, respected, and deeply loved.\n\n Nobody could ever replace the place you hold.\n\nMay this year bring you all the warmth, boundless joy, and blessings this world can offer.\n\nHappiest Birthday, Maahi.\n\n❤️🎂",
+      imageUrl: "/9.jpeg",
       order: 5
-    },
-    {
-      id: 6,
-      title: "Close to You",
-      content: "There is a kind of comfort that I find only when I am close to you. In those quiet moments, I don't need to say much or do anything special. Just being beside you feels enough. If I could keep one feeling forever, it would be the feeling of being close to you and knowing that, for that moment, nothing else really matters. ❤️",
-      imageUrl: "/17.jpeg",
-      order: 6
-    },
-    {
-      id: 7,
-      title: "Our Little Adventures-Ujjain⛪",
-      content: "I love the moments when we step away from everything familiar and simply enjoy being together. Every little outing, every random plan, every place we go becomes a memory because I get to experience it with you. I don't think it matters where we are as long as, somewhere in that moment, I get to look at you and think, 'I'm glad I'm here with her.' 🌅",
-      imageUrl: "/19.jpeg",
-      order: 7
-    },
-    {
-      id: 8,
-      title: "The Little Things-BUDDY🐕",
-      content: "Sometimes, it is the smallest things that make me fall for you a little more. The way you care the buddy, the way you love the buddy, the way you can turn an ordinary moment into something warm and beautiful. Seeing this side of you reminds me how much I love the little things that make you who you are. And those little things are a big part of why you are so special to me. 🥰",
-      imageUrl: "/15.jpeg",
-      order: 8
-    },
-    {
-      id: 9,
-      title: "My Favorite Memories-16-MAY-2026💝",
-      content: "When I look back at all the moments we have shared, it is not just the big ones that make me smile. It is the random laughs, the late conversations, the silly moments, the quiet moments, and all those little memories that became special without us even realizing it. Every one of them has a place in my heart, because every one of them has a little piece of you in it. 💖",
-      imageUrl: "18.jpeg",
-      order: 9
-    },
-    {
-      id: 10,
-      title: "For Your Birthday",
-      content: "Today is about celebrating you — the beautiful person you are and the happiness you bring into my life. I hope this birthday gives you all the smiles, love, and happiness that you deserve. I may not always have the perfect words to tell you how much you mean to me, but I hope you always remember one thing: having you in my life is something I will always be grateful for. Happy Birthday, my love. ❤️🎂",
-      imageUrl: "/1.jpeg",
-      order: 10
     },
   ];
 

@@ -76,50 +76,50 @@ export default function Memories() {
   const displayMemories = (memories && memories.length > 0) ? memories : [
     {
       id: 1,
-      url: "/10.jpeg",
+      url: "/2.jpeg",
       type: "image",
-      caption: "The way you smile😊",
+      caption: "Pure cartoon energy",
       date: "Always",
       rotation: -2
     },
     {
       id: 2,
-      url: "/17.jpeg",
+      url: "/7.jpeg",
       type: "image",
-      caption: "Sleeping like baby😍",
-      date: "21-Aug-2025",
+      caption: "Face ID Failed ",
+      date: "😍",
       rotation: 3
     },
     {
       id: 3,
-      url: "/6.jpeg",
+      url: "/5.jpeg",
       type: "image",
-      caption: "Never letting go-Zara pose😁",
-      date: "24-Feb-2025",
+      caption: "Where my pulse settles.",
+      date: "❤️",
       rotation: -4
     },
     {
       id: 4,
-      url: "/11.jpeg",
+      url: "/8.jpeg",
       type: "image",
-      caption: "Chasing -- Saranghae❤️",
-      date: "18-Aug-2025",
+      caption: "Arrest the camera",
+      date: "😁",
       rotation: 2
     },
     {
       id: 5,
-      url: "/20.jpeg",
+      url: "/10.jpeg",
       type: "image",
-      caption: "Seedhi Dikhti Hoon,Hoon Nahi😌",
-      date: "26-Nov-2026",
+      caption: "Seedhi Dikhti Hoon,Hoon Nahi",
+      date: "😌",
       rotation: 5
     },
     {
       id: 6,
-      url: "/22.jpeg",
+      url: "/11.jpeg",
       type: "image",
-      caption: "Face ID Failed 😂",
-      date: "22-Aug-2025",
+      caption: "Cute menace ",
+      date: "😊",
       rotation: -3
     }
   ];

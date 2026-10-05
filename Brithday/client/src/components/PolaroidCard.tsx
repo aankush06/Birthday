@@ -25,7 +25,7 @@ export function PolaroidCard({ memory, index }: PolaroidCardProps) {
       className="relative group bg-white p-4 pb-12 shadow-md hover:shadow-xl transition-shadow duration-300 w-full max-w-xs mx-auto"
       style={{ rotate: `${rotation}deg` }}
     >
-      <div className="aspect-[4/5] overflow-hidden bg-gray-100 mb-4 border border-gray-100">
+      <div className="aspect-[5/4] overflow-hidden bg-gray-100 mb-4 border border-gray-100">
         <img 
           src={memory.url} 
           alt={memory.caption} 
